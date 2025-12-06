@@ -1,4 +1,4 @@
---- Day 1: Secret Entrance ---
+# --- Day 1: Secret Entrance ---
 
 The Elves have good news and bad news.
 
@@ -99,7 +99,7 @@ Your puzzle answer was 1048.
 
 The first half of this puzzle is complete! It provides one gold star: *
 
---- Part Two ---
+# --- Part Two ---
 
 You're sure that's the right password, but the door won't open. You
 knock, but nobody answers. You build a snowman while you think.
